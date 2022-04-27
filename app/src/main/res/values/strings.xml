@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Daily Diner</string>
+    <string name="app_name">Deli Drive</string>
+    <string name="question_1_header">Вопрос № 1. Есть ли у вас опыт работы курьером?</string>
+    <string name="question_2_header">Вопрос № 2. Расскажите о своем опыте в свободной форме.</string>
+    <string name="question_3_header">Вопрос № 3. Хотите ли Вы у нас работать?</string>
+    <string name="question_4_header">Вопрос № 4. Укажите Вашу дату рождения.</string>
+    <string name="textYes">Да</string>
+    <string name="textNo">Нет</string>
+    <string name="send_button_text">Отправить форму</string>
 </resources>
